@@ -34,6 +34,7 @@ go run ./cmd/api
 ## Генерация нагрузки
 
 В другом терминале можно создать нагрузку на `/work`, например при помощи `hey`:
+<img width="555" height="822" alt="image" src="https://github.com/user-attachments/assets/65c93714-562b-4728-9da0-51ca4e675f5d" />
 
 ```bash
 hey -n 200 -c 8 http://localhost:8080/work
