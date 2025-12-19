@@ -108,13 +108,11 @@ Heap-профиль получен командой:
 
 <img width="574" height="873" alt="image" src="https://github.com/user-attachments/assets/570fbca8-204c-46a9-af9f-1b06537ede2a" /> 
 
-Бенчмарк до оптимизации:
-
-<img width="1188" height="54" alt="image" src="https://github.com/user-attachments/assets/c5be6ad0-7496-49f3-b261-2d407d52880f" /> 
-
 После оптимизации:
 
 <img width="499" height="868" alt="image" src="https://github.com/user-attachments/assets/29836691-da53-4f01-8e87-cbbe51a52aa1" /> 
 
-Бенчмарк после оптимизации:
+Бенчмарк до и после оптимизации:
+
+<img width="1188" height="54" alt="image" src="https://github.com/user-attachments/assets/c5be6ad0-7496-49f3-b261-2d407d52880f" /> 
 
